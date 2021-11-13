@@ -4,3 +4,4 @@ Readme de exemplo do curso de desenvolvedor Full Stack Senai
 
 
 lembrei do comando: git commit
+Lembrei do comando: git status
